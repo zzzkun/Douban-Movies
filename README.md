@@ -5,5 +5,5 @@
 - `top250`区域和`搜索`区域 在已加载电影项的前提下滑动到底部时会自动加载新的电影项
 
 
-<img src="./豆瓣推荐电影入口.png">
+![6](https://github.com/zzzkun/Douban-Movies/blob/master/1536546456.png)
 1
