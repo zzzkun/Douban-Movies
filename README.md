@@ -5,6 +5,8 @@
 - `top250`区域和`搜索`区域 在已加载电影项的前提下滑动到底部时会自动加载新的电影项
 
 * 扫码体验：（若微信扫描请点下方访问原网页）
+
+
 ![6](https://github.com/zzzkun/Douban-Movies/blob/master/1536546456.png)
 
 技术栈：
